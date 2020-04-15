@@ -1,8 +1,8 @@
-—-
+——-
 Path: “/second-post”
-Date: 04-15-2020
+Date: 
 Title: “My Second Blog Post (Incomplete)”
-—-
+——-
 
 # Why politics is agile (article to write)
 
